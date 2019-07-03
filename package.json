@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/nindooAI/monaco-gateway/issues"
   },
-  "homepage": "https://github.com/nindooAI/monaco-gateway#readme"
+  "homepage": "https://github.com/nindooAI/monaco-gateway#readme",
+  "files": [
+    "dist/**/*.{js,d.ts}"
+  ]
 }
