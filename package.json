@@ -1,6 +1,6 @@
 {
   "name": "@irontitan/proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple express middleware to proxy HTTP / HTTPS requests",
   "main": "dist/index.js",
   "dependencies": {
