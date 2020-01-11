@@ -22,8 +22,8 @@ export function rewrite (at: string | Function) {
       if (!query) return path
 
       return path.includes('?')
-        ? `${path}&{query}`
-        :`${path}?${query}`
+        ? `${path}&${query}`
+        : `${path}?${query}`
     }
   }
 }
